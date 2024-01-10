@@ -1,0 +1,1 @@
+(check == false)?puts("Sort Fail"):puts("Sort Success");
